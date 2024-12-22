@@ -1,4 +1,4 @@
 # LightOS
 The ServitorConnect Operating System, based on Alpine Linux.
 
-Edit: We might use local infrastructure.
+Edit: Local infrastructure is being used instead of this repo.
